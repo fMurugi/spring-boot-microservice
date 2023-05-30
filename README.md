@@ -1,2 +1,2 @@
 # spring-boot-microservice
-![Microservices Diagram](https://github.com/fMurugi/spring-boot-microservice/assets/81636349/86dac268-3d6f-4c4d-82a8-934c8d8f0ae4)
+![Microservices Diagram(1)](https://github.com/fMurugi/spring-boot-microservice/assets/81636349/76b040c4-4359-426d-b77d-6898b25170e8)
